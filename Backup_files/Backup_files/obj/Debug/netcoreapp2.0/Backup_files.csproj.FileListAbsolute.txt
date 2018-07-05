@@ -1,0 +1,11 @@
+C:\Users\Sergei.Ermolaev\source\repos\Backup_files\Backup_files\bin\Debug\netcoreapp2.0\Backup_files.deps.json
+C:\Users\Sergei.Ermolaev\source\repos\Backup_files\Backup_files\bin\Debug\netcoreapp2.0\Backup_files.runtimeconfig.json
+C:\Users\Sergei.Ermolaev\source\repos\Backup_files\Backup_files\bin\Debug\netcoreapp2.0\Backup_files.runtimeconfig.dev.json
+C:\Users\Sergei.Ermolaev\source\repos\Backup_files\Backup_files\bin\Debug\netcoreapp2.0\Backup_files.dll
+C:\Users\Sergei.Ermolaev\source\repos\Backup_files\Backup_files\bin\Debug\netcoreapp2.0\Backup_files.pdb
+C:\Users\Sergei.Ermolaev\source\repos\Backup_files\Backup_files\obj\Debug\netcoreapp2.0\Backup_files.csprojAssemblyReference.cache
+C:\Users\Sergei.Ermolaev\source\repos\Backup_files\Backup_files\obj\Debug\netcoreapp2.0\Backup_files.csproj.CoreCompileInputs.cache
+C:\Users\Sergei.Ermolaev\source\repos\Backup_files\Backup_files\obj\Debug\netcoreapp2.0\Backup_files.AssemblyInfoInputs.cache
+C:\Users\Sergei.Ermolaev\source\repos\Backup_files\Backup_files\obj\Debug\netcoreapp2.0\Backup_files.AssemblyInfo.cs
+C:\Users\Sergei.Ermolaev\source\repos\Backup_files\Backup_files\obj\Debug\netcoreapp2.0\Backup_files.dll
+C:\Users\Sergei.Ermolaev\source\repos\Backup_files\Backup_files\obj\Debug\netcoreapp2.0\Backup_files.pdb
